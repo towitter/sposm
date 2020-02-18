@@ -6,7 +6,7 @@ library(testthat)
 # desc_table purges missing values prior to the analysis.
 
 
-setwd("../..")
+setwd("C:/Users/Nutzer/Documents/R/sposm")
 
 context("test parameters of function desc_table()")
 
